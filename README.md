@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lognseth
-- 👀 I’m interested in Azure, PowerShell, Python and walks on the beach.
+- 👀 I’m interested in cloud technologies, coding, automation and walks on the beach.
 - 🌱 I’m always figuring out new ways to use the technology at my disposal to create new cool things for money.
-- 📫 How to reach me; mikael (at) lognseth (dot) eu
+- 📫 How to reach me; mikael (at) lognseth (dot) de
 
 <!---
 DogValley/DogValley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
