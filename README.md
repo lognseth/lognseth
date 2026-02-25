@@ -9,7 +9,7 @@
     
     
 - I'm a Cloud engineer & Architect.
-- I've currently working at [adesso](https://adesso-service.com/) as a [Principal Engineer](https://www.devpath.com/blog/principal-engineer).
+- I currently work at [adesso](https://adesso-service.com/) as a [Principal Engineer](https://www.devpath.com/blog/principal-engineer).
 
 <h2>🛠 My Toolkit</h2>
 
@@ -17,7 +17,6 @@
 [![Microsoft Azure](https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-gb)
 [![Terraform/OpenTofu](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://opentofu.org/)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
-[![Docker](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=black)](https://docs.docker.com/engine/swarm/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181717?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
