@@ -8,7 +8,7 @@
 <img alt="octocat" align="right" src="https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif" width="225">
     
     
-- I'm a Cloud engineer & Architect.
+- I'm a Cloud Architect.
 - I currently work at [adesso](https://adesso-service.com/) as a [Principal Engineer](https://www.devpath.com/blog/principal-engineer).
 
 <h2>🛠 My Toolkit</h2>
